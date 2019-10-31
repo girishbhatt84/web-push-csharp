@@ -290,16 +290,15 @@ This method returns a Dictionary<string, string> intented to be headers of a web
    </tr>
 
    <tr>
-   <td>Samsung Internet Browser</td>
+   <td>Samsung Internet Browser on mobile</td>
    <!-- Push without payloads support-->
    <td>✓ v4.0.10-53+</td>
    <!-- Push with payload support -->
-   <td>✗</td>
+   <td>✓ v10.1.01.3</td>
 
    <!-- VAPID Support -->
-   <td>✗</td>
-
-   <td>The `gcm_sender_id` is needed to get a push subscription.</td>
+   <td>✓</td>
+   <td></td>
    </tr>
   </tbody>
 </table>
